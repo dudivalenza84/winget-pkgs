@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.9.0.schema.json
+
+PackageIdentifier: EduardoValenza.ProgViewer
+PackageVersion: 1.67.0
+InstallerType: nullsoft
+Scope: user
+UpgradeBehavior: install
+Installers:
+- Architecture: x64
+  InstallerUrl: https://downloads.progviewer.com/licenca/1.67.0/ProgViewer_1.67.0_x64-setup.exe
+  InstallerSha256: 03754890C9EDF653F4BED4D613270C44670234012628D61A22769A6CD5E8D6E1
+ManifestType: installer
+ManifestVersion: 1.9.0
