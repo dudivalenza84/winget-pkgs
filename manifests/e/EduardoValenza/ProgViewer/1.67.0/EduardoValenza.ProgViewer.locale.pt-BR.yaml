@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.locale.1.9.0.schema.json
+
+PackageIdentifier: EduardoValenza.ProgViewer
+PackageVersion: 1.67.0
+PackageLocale: pt-BR
+Publisher: Eduardo Valenza
+PublisherUrl: https://progviewer.com/
+PublisherSupportUrl: https://progviewer.com/suporte/
+PrivacyUrl: https://progviewer.com/privacidade/
+Author: Eduardo Valenza
+PackageName: ProgViewer
+PackageUrl: https://progviewer.com/
+License: Proprietary
+LicenseUrl: https://progviewer.com/termos/
+Copyright: Copyright (c) 2026 Eduardo Valenza
+ShortDescription: Visualizador de arquivos de texto e código, com realce de sintaxe, sumário e busca. Offline.
+Description: O ProgViewer abre um arquivo de texto ou código por vez e o mostra com realce de sintaxe, sumário, busca e dobra de blocos, em tema claro ou escuro que acompanha o sistema. Funciona offline, sem conta e sem telemetria. Tem 14 dias de teste; a licença vitalícia é vendida em progviewer.com.
+Tags:
+- visualizador
+- codigo
+- texto
+- markdown
+- realce-de-sintaxe
+ManifestType: locale
+ManifestVersion: 1.9.0
