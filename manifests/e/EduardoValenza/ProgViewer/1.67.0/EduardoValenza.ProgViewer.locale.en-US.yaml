@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.9.0.schema.json
+
+PackageIdentifier: EduardoValenza.ProgViewer
+PackageVersion: 1.67.0
+PackageLocale: en-US
+Publisher: Eduardo Valenza
+PublisherUrl: https://progviewer.com/en/
+PublisherSupportUrl: https://progviewer.com/en/support/
+PrivacyUrl: https://progviewer.com/en/privacy/
+Author: Eduardo Valenza
+PackageName: ProgViewer
+PackageUrl: https://progviewer.com/en/
+License: Proprietary
+LicenseUrl: https://progviewer.com/en/terms/
+Copyright: Copyright (c) 2026 Eduardo Valenza
+ShortDescription: A viewer for text and code files, with syntax highlighting, outline and find. Offline.
+Description: ProgViewer opens one text or code file at a time and renders it with syntax highlighting, an outline, find and block folding, in a light or dark theme that follows the system. It works offline, with no account and no telemetry. Includes a 14-day trial; a lifetime license is sold at progviewer.com.
+Moniker: progviewer
+Tags:
+- viewer
+- code
+- text
+- markdown
+- syntax-highlighting
+ManifestType: defaultLocale
+ManifestVersion: 1.9.0
